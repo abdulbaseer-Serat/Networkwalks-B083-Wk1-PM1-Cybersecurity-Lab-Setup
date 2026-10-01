@@ -240,4 +240,4 @@ Special thanks to:
 - Networkwalks Mentorship Team
 - Networkwalks Academy
 
-for providing guidance and cybersecurity training throughout this project
+for providing guidance and cybersecurity training throughout this project.
