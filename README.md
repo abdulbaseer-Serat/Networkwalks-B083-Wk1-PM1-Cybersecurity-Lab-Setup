@@ -1,6 +1,6 @@
 # 🛡️ Secure Virtual Cybersecurity Laboratory
 
-> A secure and isolated cybersecurity laboratory built using Oracle VirtualBox and Kali Linux for ethical hacking, network analysis, penetration testing, and cybersecurity training.
+> A secure and isolated cybersecurity laboratory built using Oracle VirtualBox and Kali Linux for ethical hacking, network analysis, penetration testing, and cybersecurity training..
 
 ---
 
