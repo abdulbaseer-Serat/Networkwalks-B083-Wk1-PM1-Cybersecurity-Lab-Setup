@@ -6,7 +6,7 @@
 
 ## 📖 Project Overview
 
-This project documents the setup of a cybersecurity testing lab environment using Oracle VirtualBox and Kali Linux as part of the Networkwalks Cybersecurity Program (Batch B083)
+This project documents the setup of a cybersecurity testing lab environment using Oracle VirtualBox and Kali Linux as part of the Networkwalks Cybersecurity Program (Batch B083).
 
 The objective was to build a safe and isolated virtual environment where cybersecurity tools and techniques can be practiced without affecting the host operating system or external networks.
 
@@ -60,8 +60,8 @@ The isolated environment helps to:
                 Gateway 10.0.0.1
                         │
            ┌──────────────────────────┐
-           │  VirtualBox NAT Network  │
-           │      10.0.0.0/24         │
+          │  VirtualBox NAT Network  │
+          │      10.0.0.0/24         │
            └──────────────────────────┘
                         │
                         │
