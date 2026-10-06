@@ -21,7 +21,7 @@ with Kali Linux configured as the primary security workstation.
 ---
 ## 🎯 Objective
 
-The objective of this Week 1 lab was to build and configure a **controlled cybersecurity environment** using Kali Linux and Oracle VirtualBox.
+The objective of this Week 1 lab was to build and configure a **controlled cybersecurity environment** using Kali Linux and Oracle VirtualBox
 
 The lab focused on:
 
